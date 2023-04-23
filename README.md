@@ -22,13 +22,23 @@ The body frame is at the top of the head (X axis pointing forwards, Y axis point
 
 ## Results
 #### The odometry and dynamics plots for dynamics step:
-![image](/images/map1)
+##### Map 1
+![image](/Images/map1)
+
+##### Map 2
+![image](/Images/map1)
+
+##### Map 3
+![image](/Images/map1)
+
+##### Map 4
+![image](/Images/map1)
 
 #### SLAM on Dataset 0, Q = 1e-4
-![image](https://user-images.githubusercontent.com/38180831/205531075-afd27c93-64e5-4308-9c82-eb8314a3e8e6.png)
+![image](/Images/traj1)
 
 #### SLAM on Dataset 0, Q = 1e-8
-![image](https://user-images.githubusercontent.com/38180831/205531273-6b538618-f2b2-4fcf-b106-e601c310ebb8.png)
+![image](/Images/traj2)
 
 #### SLAM on Dataset 1, Q = 1e-8
 ![image](https://user-images.githubusercontent.com/38180831/205531287-10059179-fdb3-400f-af8d-ad19681cfddc.png)
